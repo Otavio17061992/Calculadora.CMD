@@ -1,0 +1,12 @@
+c:\users\gestal\documents\visual studio 2013\Projects\Calculadora.Cmd\Calculadora.Cmd\bin\Debug\Calculadora.Cmd.exe.config
+c:\users\gestal\documents\visual studio 2013\Projects\Calculadora.Cmd\Calculadora.Cmd\bin\Debug\Calculadora.Cmd.exe
+c:\users\gestal\documents\visual studio 2013\Projects\Calculadora.Cmd\Calculadora.Cmd\bin\Debug\Calculadora.Cmd.pdb
+c:\users\gestal\documents\visual studio 2013\Projects\Calculadora.Cmd\Calculadora.Cmd\obj\Debug\Calculadora.Cmd.csprojResolveAssemblyReference.cache
+c:\users\gestal\documents\visual studio 2013\Projects\Calculadora.Cmd\Calculadora.Cmd\obj\Debug\Calculadora.Cmd.exe
+c:\users\gestal\documents\visual studio 2013\Projects\Calculadora.Cmd\Calculadora.Cmd\obj\Debug\Calculadora.Cmd.pdb
+C:\GESTAL\Projetos\ProjetoCalculadora.Cmd\Calculadora.Cmd\bin\Debug\Calculadora.Cmd.exe.config
+C:\GESTAL\Projetos\ProjetoCalculadora.Cmd\Calculadora.Cmd\obj\Debug\Calculadora.Cmd.exe
+C:\GESTAL\Projetos\ProjetoCalculadora.Cmd\Calculadora.Cmd\obj\Debug\Calculadora.Cmd.pdb
+C:\GESTAL\Projetos\Projetos_Treino\ProjetoCalculadora.Cmd\Calculadora.Cmd\bin\Debug\Calculadora.Cmd.exe.config
+C:\GESTAL\Projetos\Projetos_Treino\ProjetoCalculadora.Cmd\Calculadora.Cmd\obj\Debug\Calculadora.Cmd.exe
+C:\GESTAL\Projetos\Projetos_Treino\ProjetoCalculadora.Cmd\Calculadora.Cmd\obj\Debug\Calculadora.Cmd.pdb
